@@ -16,7 +16,7 @@
 		<url>http://mithuntechnologies.com/</url>
 	</organization>
 	
-	<! -- Demo on github webhook - while code is commit only it will trigger-->
+	<! -- Demo on github webhook - while code is commit only it will trigger so it is better-->
 	<! -- Demo on PULL SCM - It will trigger only schedule time -->
 	<! -- Demo on Bulid Periodically - it will trigger continuely time which you mention -->
 	
