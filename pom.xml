@@ -17,6 +17,7 @@
 	</organization>
 	
 	<! -- Demo on github webhook -->
+	<! -- Demo on PULL SCM -->
 
 	<properties>
 		<jdk.version>1.8</jdk.version>
